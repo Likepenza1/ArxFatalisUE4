@@ -17,6 +17,11 @@
 			"Name": "EasyMultiSave",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7232621c23174bbbbb64c7bfb6583f6f"
+		},
+		{
+			"Name": "SymbolRecognizerPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1c85d21bc153403187523a6c04667e2a"
 		}
 	],
 	"TargetPlatforms": [
